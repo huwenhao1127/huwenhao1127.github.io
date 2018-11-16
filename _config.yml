@@ -1,9 +1,9 @@
 # Site settings
-title: HuWenhao Blog
+title: HEX
 SEOTitle: huwenhao blog 
 header-img: myimg/pokemon2.jpeg
 email: huwenhao856956@163.com
-description: "好读书不求甚解，每有会意，便欣然忘食。"
+description: "Nothing"
 keyword: "huwenhao的个人主页"
 url: "http://huwenhao1127.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -11,7 +11,7 @@ github_repo: "https://github.com/huwenhao1127/huwenhao1127.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "a description"
+sidebar-about-description: "好读书不求甚解，每有会意，便欣然忘食。"
 sidebar-avatar: /img/avatar_n.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
