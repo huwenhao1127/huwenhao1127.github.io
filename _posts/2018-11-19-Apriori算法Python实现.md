@@ -138,4 +138,9 @@ def apriori(dataSet, supMin, confMin):
 1. 当数据集很大时仍然需要产生大量的候选项集。
 2. 由于每次对C(k)计数都需要扫描一次数据集，因此算法的时间复杂度高。
 
+## 参考
+- 数据挖掘概念与技术 Jiawei Han, Micheline Kamber， Jian Pei
+
+## 程序源码
+[Apriori算法 Python简单实现](https://github.com/huwenhao1127/DataMining/blob/master/Frequent%20Itemsets%20Mining/Apriori.py)
 
