@@ -85,7 +85,7 @@ plt.show()
 ```
 
 
-![png](output_3_0.png)
+![png](https://github.com/huwenhao1127/huwenhao1127.github.io/blob/master/img/output_3_0.png)
 
 
 训练数据（迭代一轮）：
@@ -164,7 +164,7 @@ plt.show()
 ```
 
 
-![png](output_15_0.png)
+![png](https://github.com/huwenhao1127/huwenhao1127.github.io/blob/master/img/output_15_0.png)
 
 
 预测某一点属于哪个簇，并计算到三个簇中心的距离：
