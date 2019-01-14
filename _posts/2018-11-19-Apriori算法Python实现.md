@@ -4,7 +4,7 @@ layout:     post
 title:      频繁项挖掘（一）：Apriori算法
 subtitle:   频繁项挖掘
 data:       2018-11-19
-author:     HuWenhao(Hex)
+author:     HuWenhao(Hexo Hu)
 header-img: 		               #标题背景图
 catalog:    true                       # 是否归档
 tags:
