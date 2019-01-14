@@ -4,7 +4,7 @@ layout:     post
 title:      My Frist post
 subtitle:   hello world!
 data:       2018-11-13
-author:     HuWenhao(Hex)
+author:     HuWenhao(Hexo Hu)
 header-img: 		               #标题背景图
 catalog:    true                       # 是否归档
 tags:
